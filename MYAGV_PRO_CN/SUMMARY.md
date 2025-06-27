@@ -52,6 +52,7 @@
   - [5.3 固件使用](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
     - [5.3.1 固件更新信息](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
     - [5.3.2 如何刻录固件](5-BasicApplication/5.3-FirmwareUse/5.3.2-HowToBurnFirmware.md)
+  - [ 5.4 镜像更新说明](5-BasicApplication/5.4-ImageUpdateUse/README.md)
 
 - [6 SDK 开发指南](6-SDKDevelopment/README.md)
 
@@ -77,14 +78,10 @@
   - [7.2 myAGV+280M5复合机器人](7-ExamplesRobotsUsing/280m5.md)
   - [7.3 myAGV+280JN复合机器人](7-ExamplesRobotsUsing/280jn.md)
 
-- [8 相关资料下载](8-FilesDownload/README.md)
-  - [8.1 Gitbook 下载](8-FilesDownload/8.1-GitbookDownload.md)
-  - [8.2 产品图纸](8-FilesDownload/8.2-productBrochure.md)
-  - [8.3 软件资料及源码](8-FilesDownload/8.3-softwareSource.md)
-  - [8.4 系统资料](8-FilesDownload/8.4-SystemInformation/README.md)
-    - [8.4.1 系统镜像](8-FilesDownload/8.4-SystemInformation/8.4.1-System_Image.md)
-    - [8.4.2 镜像烧录](8-FilesDownload/8.4-SystemInformation/8.4.2-Image_Burning.md)
-  - [8.5 宣传资料](8-FilesDownload/8.5-PublicityMaterial.md)
+- [8 下载专区](8-FilesDownload/README.md)
+  - [8.1 结构资料下载](8-FilesDownload/8.1-StructuralDataDownload.md)
+  - [8.2 软件资料下载](8-FilesDownload/8.2-SoftwareDataDownload.md)
+
 - [9 关于我们](9-AboutUs/README.md)
   - [9.1 大象机器人](9-AboutUs/9.1_company.md)
   - [9.2 联系我们](9-AboutUs/9.2_contact.md)

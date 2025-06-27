@@ -37,5 +37,21 @@ Firmware table information describing performance improvements or advantages aft
 - [Burn Firmware Operation](5.3-FirmwareUse/5.3.2-HowToBurnFirmware.md)<br>
 This chapter describes how to use mystudio software to burn firmware code for myagv
 
+**5.4-Image Update Instructions**
+
+Image is a file storage method. It means that the data saved in one disc also exists in another disc without any deformation. Image files are usually saved as BIN, IMG, TAO, DAO, FCD. It is similar to a ZIP package, which combines a series of files into one file in a certain format to meet the needs of users. The most basic function of an image is that it can be immediately recognized and recorded on a disc by software. Generally speaking, an image file can be extended to more information, such as system files. Therefore, an image file can even contain hardware information. The most typical software for creating an image file is Ghost, which has a recording function to save information on a disc.
+
+**When to download an image?**
+
+As a copy of a file, an image can help us solve many problems. If you encounter the following problems, please try to solve them by downloading an image file.
+
+1. When you need to restart the system or robot;
+
+2. When the original image file is destroyed.
+
+**Jump to each section:**
+
+- [Image Update Instructions](5.4-ImageUpdateUse/README.md)
+
 ----
 [← Previous Chapter](../4-FirstInstallAndUse/README.md) | [Next Chapter →](../6-SDKDevelopment/README.md)
