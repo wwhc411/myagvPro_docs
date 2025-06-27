@@ -1,6 +1,6 @@
-# myAGV Developer Guide
+# myAGV Pro Developer Guide
 
-Welcome to the official documentation repository for the myAGV Developer Guide! Our aim is to provide a comprehensive and understandable guide to help developers program and control the myAGV using various programming languages and development environments.
+Welcome to the official documentation repository for the myAGV Pro Developer Guide! Our aim is to provide a comprehensive and understandable guide to help developers program and control the myAGV Pro using various programming languages and development environments.
 
 ## Getting Started
 
@@ -8,19 +8,15 @@ Before you begin, please make sure you are familiar with basic Git operations an
 
 ## Document jump link
 
-[SUMMARY_MYAGV_JN_2023_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
+[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
 
-[SUMMARY_MYAGV_JN_2023_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
-
-[SUMMARY_MYAGV_PI_2023_EN](https://docs.elephantrobotics.com/docs/myagv_pi23_cn)
-
-[SUMMARY_MYAGV_PI_2023_CN](https://docs.elephantrobotics.com/docs/myagv_pi23_cn)
+[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
 
 ## How to Report Issues
 
 If you encounter any problems while using the guide or developing with the myAGV, please follow these steps:
 
-1. Visit the [Issues page](https://github.com/elephantrobotics/myAGV-docs/issues).
+1. Visit the [Issues page](https://github.com/elephantrobotics/myagvPro_docs/issues).
 2. Click the “New Issue” button to create a new issue.
 3. Provide as much detail as possible, including but not limited to:
    - Description of the issue
@@ -37,7 +33,7 @@ We warmly welcome and encourage community members to improve documentation or ad
 2. Clone your forked repository to your local machine.
 3. Create a new branch for your changes.
 4. After making your changes, commit them to your fork.
-5. On GitHub, submit a merge request (MR) to the original repository’s `gitbook-en` branch.
+5. On GitHub, submit a merge request (MR) to the original repository’s `main` branch.
 6. In your MR description, clearly describe the changes you've made and why.
 7. After submitting your MR, please be patient for our team to review it.
 

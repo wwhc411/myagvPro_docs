@@ -1,6 +1,6 @@
-# myAGV 开发者指南
+# myAGV Pro 开发者指南
 
-欢迎来到 myAGV 开发者指南的官方文档库！我们的目标是提供全面且易于理解的指南，帮助开发人员使用各种编程语言和开发环境对 myAGV 进行编程和控制。
+欢迎来到 myAGV Pro 开发者指南的官方文档库！我们的目标是提供全面且易于理解的指南，帮助开发人员使用各种编程语言和开发环境对 myAGV Pro 进行编程和控制。
 
 ## 入门
 
@@ -8,19 +8,15 @@
 
 ## 文档跳转链接
 
-[SUMMARY_MYAGV_JN_2023_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
+[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
 
-[SUMMARY_MYAGV_JN_2023_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
-
-[SUMMARY_MYAGV_PI_2023_EN](https://docs.elephantrobotics.com/docs/myagv_pi23_cn)
-
-[SUMMARY_MYAGV_PI_2023_CN](https://docs.elephantrobotics.com/docs/myagv_pi23_cn)
+[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
 
 ## 如何报告问题
 
 如果您在使用指南或使用 myAGV 进行开发时遇到任何问题，请按照以下步骤操作：
 
-1. 访问 [Issues page](https://github.com/elephantrobotics/myAGV-docs/issues).
+1. 访问 [Issues page](https://github.com/elephantrobotics/myagvPro_docs/issues).
 2. 单击“New Issue”按钮创建新问题。
 3. 提供尽可能多的详细信息，包括但不限于：
    - 问题描述。
@@ -37,7 +33,7 @@
 2. 将分叉的存储库克隆到本地计算机。
 3. 为您的更改创建一个新分支。
 4. 进行更改后，将其提交到您的分叉。
-5. 在 GitHub 上，向原始存储库的`gitbook-en`分支提交合并请求 (MR)。
+5. 在 GitHub 上，向原始存储库的`main`分支提交合并请求 (MR)。
 6. 在您的 MR 描述中，清楚地描述您所做的更改及其原因。
 7. 提交您的 MR 后，请耐心等待我们的团队对其进行审核。
 
