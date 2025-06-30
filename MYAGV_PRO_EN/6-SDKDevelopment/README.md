@@ -11,7 +11,7 @@ In order to meet the diverse application needs of robots in different scenarios,
 - [6.1 Python](../6-SDKDevelopment/6.1-ApplicationBasePython/README.md)<br>
 Our robots support Python and the development of the Python API library has become increasingly complete.The basic motion control of MyAGV, including forward, backward, turning, and controlling the colorful light bar effects, can be achieved through relevant library functions in Python.
 
-- [6.2 Robot Operating System 1 (ROS1)](../6-SDKDevelopment/6.2-ApplicationBaseROS1/6.2.1-ROS_Introduction.md)<br>
+- [6.2 Robot Operating System 2 (ROS2)](../6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.1-ROS2_Introduction.md)<br>
 ROS is open-source and is a post operating system, or secondary operating system, used for robot control.ROS provides a powerful navigation stack, including SLAM (Simultaneous Localization and Mapping) technology and path planning algorithms. This enables developers to implement autonomous navigation, obstacle avoidance and path planning for mobile robots, enabling robots to move safely and efficiently in unknown environments.
 
 ----
