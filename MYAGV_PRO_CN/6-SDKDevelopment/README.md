@@ -13,7 +13,7 @@ myAGV Jetson Nano 2023具有内置的开发环境，因此本章中描述的内�
 - [Python](../6-SDKDevelopment/6.1-ApplicationBasePython/README.md)<br>
   我们的机器人支持 Python，Python API 库的开发也日趋完善。MyAGV 的基本运动控制，包括前进、后退、转弯和控制彩色光条效果，都可以通过 Python 中的相关库函数来实现。
 
-- [Robot Operating System 1 (ROS1)](../6-SDKDevelopment/6.2-ApplicationBaseROS1/6.2.1-ROS_Introduction.md)<br>
+- [Robot Operating System 2 (ROS2)](../6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.1-ROS2_Introduction.md)<br>
   ROS 是开放源码的，是用于机器人控制的后置操作系统或辅助操作系统。ROS 提供强大的导航堆栈，包括 SLAM（同步定位和映射）技术和路径规划算法。这使开发人员能够为移动机器人实现自主导航、避障和路径规划，使机器人能够在未知环境中安全高效地移动。
 
 ---
