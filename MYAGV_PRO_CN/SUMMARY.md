@@ -2,26 +2,19 @@
 
 - [1 产品介绍](1-ProductIntroduction/README.md)
 
-  - [1.1 设计理念](1-ProductIntroduction/1.1-DesignPhilosophy.md)
-  - [1.2 适用人群](1-ProductIntroduction/1.2-SuitableUsers.md)
-  - [1.3 应用场景](1-ProductIntroduction/1.3-ApplicationScenario.md)
-  - [1.4 周边配件](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
-    - [1.4.1 屏幕](1-ProductIntroduction/1.4-AccessoriesTools/1.4.1-IPS/1-IPSTouchScreen.md)
-    - [1.4.2 备用电池](1-ProductIntroduction/1.4-AccessoriesTools/1.4.2-BackupBattery/1-BackupBattery.md)
-    - [1.4.3 深度相机](1-ProductIntroduction/1.4-AccessoriesTools/1.4.3-DepthCamera/1-AstraPro2.md)
+  - [1.1 应用场景](1-ProductIntroduction/1.1-ApplicationScenarios.md)
 
 - [2 产品特性](2-ProductFeature/README.md)
 
-  - [2.1 机器规格参数](2-ProductFeature/2.1-MachineSpecification.md)
-  - [2.2 控制核心参数](2-ProductFeature/2.2-ControlCoreParameter.md)
-  - [2.3 机械结构参数](2-ProductFeature/2.3-MechanicalStructureParameter.md)
-  - [2.4 电气特性参数](2-ProductFeature/2.4-ElectricalCharacteristicParameter.md)
+  - [2.1 基础版](2-ProductFeature/2.1-BasicEdition.md)
+  - [2.2 视觉-导航版](2-ProductFeature/2.2-VisualNavigationEdition.md)
+  - [2.3 机械结构参数](2-ProductFeature/2.3-StructuralDrawing.md)
 
 - [3 用户须知](3-UserNotes/README.md)
 
   - [3.1 安全须知](3-UserNotes/3.1-SafetyInstruction.md)
-  - [3.2 运输和存储](3-UserNotes/3.2-TransportandStorage.md)
-  - [3.3 维护和保养](3-UserNotes/3.3-MaintenanceandCare.md)
+  - [3.2 产品养护](3-UserNotes/3.2-TransportandStorage.md)
+  - [3.3 充电说明](3-UserNotes/3.3-MaintenanceandCare.md)
   - [3.4 常见问题解决](3-UserNotes/3.4-FAQs.md)
     - [1 软件](3-UserNotes/2_software.md)
     - [2 硬件](3-UserNotes/3_hardware.md)

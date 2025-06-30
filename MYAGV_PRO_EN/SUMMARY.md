@@ -2,26 +2,20 @@
 
 - [1 Product Introduction](1-ProductIntroduction/README.md)
 
-  - [1.1 Design Philosophy](1-ProductIntroduction/1.1-DesignPhilosophy.md)
-  - [1.2 Suitable Users](1-ProductIntroduction/1.2-SuitableUsers.md)
-  - [1.3 Application Scenario](1-ProductIntroduction/1.3-ApplicationScenario.md)
-  - [1.4 Accessories Tools](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
-    - [1.4.1 IPS Touch Screen](1-ProductIntroduction/1.4-AccessoriesTools/1.4.1-IPS/1-IPSTouchScreen.md)
-    - [1.4.2 Backup Battery](1-ProductIntroduction/1.4-AccessoriesTools/1.4.2-BackupBattery/1-BackupBattery.md)
-    - [1.4.3 Depth camera](1-ProductIntroduction/1.4-AccessoriesTools/1.4.3-DepthCamera/1-AstraPro2.md)
+  - [1.1 Application Scenario](1-ProductIntroduction/1.1-ApplicationScenarios.md)
+
 
 - [2 Product Feature](2-ProductFeature/README.md)
 
-  - [2.1 Machine Specification](2-ProductFeature/2.1-MachineSpecification.md)
-  - [2.2 Control Core Parameter](2-ProductFeature/2.2-ControlCoreParameter.md)
-  - [2.3 Mechanical Structure Parameter](2-ProductFeature/2.3-MechanicalStructureParameter.md)
-  - [2.4 Electrical Characteristic Parameter](2-ProductFeature/2.4-ElectricalCharacteristicParameter.md)
+  - [2.1 Basic Edition](2-ProductFeature/2.1-BasicEdition.md)
+  - [2.2 Visual-Navigation Edition](2-ProductFeature/2.2-VisualNavigationEdition.md)
+  - [2.3 Electrical Characteristic Parameter](2-ProductFeature/2.3-StructuralDrawing.md)
 
 - [3 User Notes](3-UserNotes/README.md)
 
-  - [3.1 Safety Instructions](3-UserNotes/3.1-SafetyInstruction.md)
-  - [3.2 Transport and Storage](3-UserNotes/3.2-TransportandStorage.md)
-  - [3.3 Maintenance and Care](3-UserNotes/3.3-MaintenanceandCare.md)
+  - [3.1 Safety Instruction](3-UserNotes/3.1-SafetyInstruction.md)
+  - [3.2 Product Care](3-UserNotes/3.2-TransportandStorage.md)
+  - [3.3 Charging Instruction](3-UserNotes/3.3-MaintenanceandCare.md)
   - [3.4 FAQs](3-UserNotes/3.4-FAQs.md)
     * [1 Software](3-UserNotes/2_software.md)
     * [2 Hardware](3-UserNotes/3_hardware.md)
