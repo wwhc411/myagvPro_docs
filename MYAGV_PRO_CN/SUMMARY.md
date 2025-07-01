@@ -46,6 +46,8 @@
     - [5.3.1 固件更新信息](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
     - [5.3.2 如何刻录固件](5-BasicApplication/5.3-FirmwareUse/5.3.2-HowToBurnFirmware.md)
   - [ 5.4 镜像更新说明](5-BasicApplication/5.4-ImageUpdateUse/README.md)
+  - [5.5 ExceptionInformation](./)
+    - [5.5.1 ExceptionInformation](5-BasicApplication/5.5-ExceptionInformation/5.5.1-ExceptionInformation.md)
 
 - [6 SDK 开发指南](6-SDKDevelopment/README.md)
 
@@ -58,6 +60,8 @@
     - [6.2.3 Nav2导航](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.3-Navigation2.md)
     - [6.2.4 多机控制](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.4-multi_control.md)
     - [6.2.5 Gazebo仿真](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.5-Gazebo.md)
+  - [6.3 ApplicationBaseSerialPortProtocol](./)
+    - [6.3.1 ApplicationBaseSerialPortProtocol](6-SDKDevelopment/6.3-ApplicationBaseSerialPortProtocol/6.3.1-Protocol_Introduction.md)
 
 - [7 实用场景案例]()
   - [7.1 myAGV+280Pi复合机器人](7-ExamplesRobotsUsing/280pi.md)
