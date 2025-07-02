@@ -8,9 +8,9 @@ Before you begin, please make sure you are familiar with basic Git operations an
 
 ## Document jump link
 
-[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
+[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myAGV_Pro_en)
 
-[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
+[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myAGV_Pro_cn)
 
 ## How to Report Issues
 
