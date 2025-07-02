@@ -12,7 +12,7 @@
 
 - **跳转到各部分**
   - [4.1 基础版](4.1-BasicEdition.md)
-  - [4.2 导航-视觉版](4.2-NavigationVisualEdition.md)
+  - [4.2 导航-视觉版](4.2-NavigationVisualEdition/4.2-NavigationVisualEdition.md)
 
 ---
 
