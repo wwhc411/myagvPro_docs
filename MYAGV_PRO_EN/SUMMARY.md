@@ -1,4 +1,4 @@
-# myAGV-Jetson-Nano gitbook
+# myAGV Pro gitbook
 
 - [1 Product Introduction](1-ProductIntroduction/README.md)
 
