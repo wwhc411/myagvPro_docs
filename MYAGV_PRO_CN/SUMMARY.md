@@ -25,7 +25,7 @@
     - [4.2.2 系统介绍](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
     - [4.2.3 快速体验](4-FirstInstallAndUse/4.2.3-QuickExperience.md)
 
-- [5 基础功能使用](5-BasicApplication/README.md)
+- [5 基础功能使用]()
 
   - [5.1 镜像更新说明](5-BasicApplication/5.4-ImageUpdateUse/README.md)
   - [5.2 异常信息查询]()

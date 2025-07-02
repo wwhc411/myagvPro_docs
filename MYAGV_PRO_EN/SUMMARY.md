@@ -26,7 +26,7 @@
     - [4.2.2 System Introduction](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
     - [4.2.3 Quick Experience](4-FirstInstallAndUse/4.2.3-QuickExperience.md)
 
-- [5 Basic Application](5-BasicApplication/README.md)
+- [5 Basic Application]()
 
   - [5.1 Image Update Instructions](5-BasicApplication/5.4-ImageUpdateUse/README.md)
   - [5.2 ExceptionInformation]()
