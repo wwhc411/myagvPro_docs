@@ -1,4 +1,4 @@
-# myAGV-Jetson-Nano gitbook
+# myAGV Pro gitbook
 
 - [1 产品介绍](1-ProductIntroduction/README.md)
 
@@ -23,7 +23,8 @@
 - [4 首次安装使用](4-FirstInstallAndUse/README.md)
 
   - [4.1 产品标准清单](4-FirstInstallAndUse/4.1-ProductStandardList.md)
-  - [4.2 产品开箱指南](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
+  - [4.2 导航-视觉版]()
+    - [4.2.2 系统介绍](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
   - [4.3 开机检测指南](4-FirstInstallAndUse/4.3-PowerOnDetectionGuide.md)
 
 - [5 基础功能使用](5-BasicApplication/README.md)
