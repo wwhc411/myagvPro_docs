@@ -1,6 +1,6 @@
 # 首次安装和使用
 
-![](../resources/4-FirstInstallAndUse/README/JN-main.png)
+![](../resources/4-FirstInstallAndUse/agvpromain.png)
 
 - **感谢您选择我们的产品**
 
@@ -11,9 +11,8 @@
 本章将详细介绍产品收到后的初步使用方法，并提供解决问题的相关信息，确保您在使用过程中无后顾之忧。
 
 - **跳转到各部分**
-  - [4.1 产品标准清单](4.1-ProductStandardList.md)
-  - [4.2 产品开箱指南](4.2-ProductUnboxingGuide.md)
-  - [4.3 开机检测指南](4.3-PowerOnDetectionGuide.md)
+  - [4.1 基础版](4.1-BasicEdition.md)
+  - [4.2 导航-视觉版](4.2-NavigationVisualEdition.md)
 
 ---
 

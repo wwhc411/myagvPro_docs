@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d058182-0e99-4898-925b-3bea87aed6c2" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/2DSLAMMapping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/3DCameraView.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CameraInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/KeyboardControl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/LEDInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/LidarControlUI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/SaveMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/SoftwareInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/agvpromain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/jiexian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/usbdiver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/7.1/DSC03253.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/7.1/DSC03254.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/7.1/DSC03257.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/Handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-FirstInstallAndUse/4.1-BasicEdition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-FirstInstallAndUse/4.2-NavigationVisualEdition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.1-MyArmM750.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.2-MyCobot320.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/2DSLAMMapping.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/3DCameraView.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CameraInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/KeyboardControl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/LEDInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/LidarControlUI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/SaveMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/SoftwareInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/agvpromain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/jiexian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/usbdiver.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/1-ProductIntroduction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/1-ProductIntroduction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/0_other.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/2_software.md" beforeDir="false" afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/3.4-FAQs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/3_hardware.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/3-UserNotes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/4.1-ProductStandardList.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/4.1-BasicEdition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/4.2-NavigationVisualEdition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/4.3-PowerOnDetectionGuide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/4-FirstInstallAndUse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/270.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/280jn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/280m5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/280pi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/7.1-InstallationInstructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/7.2-CommunicationsControl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/MyArmM750.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/7.1-MyArmM750.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/MyCobot320.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/7.2-MyCobot320.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/270.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/g0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/joy_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/joy_mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/joy_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/joy_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/p0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/y0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/y1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/images/y2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/7-ExamplesRobotsUsing/myCobotPro630.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.1/6400mAh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.1/7-inchdisplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.1/OptionalProductList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.1/ProductList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CheckTheBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CheckTheBox_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CheckTheBox_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CheckTheBox_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.2/CheckTheBox_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/AGVUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/ExternalCable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/PI-connect-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/Screenshot at 2024-02-21 18-02-39 - 副本.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/boot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/dianyuan1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/4.3/dianyuan2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/4-FirstInstallAndUse/README/JN-main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/12v.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/A1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/A2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/A3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/A4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/WLAN Server1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/blockly1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/blockly2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/jn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/jn2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/jn3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/jn4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/legao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/legao2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/m5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/myAGV2023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/myAGV2023API.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/nav2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/nav3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/nav4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/odom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/r12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/server.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/slam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/ssh1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/ssh2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/ssh3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/ssh4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/ssh5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/tele_control.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/video_jn.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/wifi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/wificonnected.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/wificonnecting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/A1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/A2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/A3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/A4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/A5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/QC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/WLAN Server1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/myAGV2023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/myAGV2023API.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/server2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/server3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/teb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/wificonnected.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/wificonnecting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_CN/resources/7-ExamplesRobotsUsing/复合机器人/图9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-ProductIntroduction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1-ProductIntroduction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-UserNotes/0_other.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-UserNotes/2_software.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-UserNotes/3.4-FAQs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-UserNotes/3_hardware.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-UserNotes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/3-UserNotes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-FirstInstallAndUse/4.1-ProductStandardList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-FirstInstallAndUse/4.3-PowerOnDetectionGuide.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-FirstInstallAndUse/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/4-FirstInstallAndUse/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/270_en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/280jn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/280m5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/280pi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.1-InstallationInstructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.2-CommunicationsControl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/270.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/g0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/joy_led.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/joy_mode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/joy_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/joy_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/p0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/y0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/y1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/img/y2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.1/6400mAh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.1/7-inchdisplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.1/OptionalProductList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.1/ProductList.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CheckTheBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CheckTheBox_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CheckTheBox_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CheckTheBox_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.2/CheckTheBox_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/AGVUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/ExternalCable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/PI-connect-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/Screenshot at 2024-02-21 18-02-39 - 副本.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/boot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/dianyuan1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/4.3/dianyuan2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/4-FirstInstallAndUse/README/JN-main.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zDAbqUdzMFHftWSWTQIJnuZZQT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/elephantrobotics/myagvPro_docs/MYAGV_PRO_EN/7-ExamplesRobotsUsing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\elephantrobotics\myagvPro_docs\MYAGV_PRO_EN\7-ExamplesRobotsUsing" />
+      <recent name="D:\elephantrobotics\myagvPro_docs\MYAGV_PRO_EN\resources\4-FirstInstallAndUse\4.2" />
+      <recent name="D:\elephantrobotics\myagvPro_docs\MYAGV_PRO_EN\resources\4-FirstInstallAndUse" />
+      <recent name="D:\elephantrobotics\myagvPro_docs\MYAGV_PRO_EN\4-FirstInstallAndUse" />
+      <recent name="D:\elephantrobotics\myagvPro_docs\MYAGV_PRO_EN\resources\1-ProductIntroduction" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4d058182-0e99-4898-925b-3bea87aed6c2" name="更改" comment="" />
+      <created>1751255344432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751255344432</updated>
+      <workItem from="1751255345541" duration="5994000" />
+      <workItem from="1751277144269" duration="3564000" />
+      <workItem from="1751334025544" duration="2240000" />
+      <workItem from="1751364924086" duration="79000" />
+      <workItem from="1751427328586" duration="4847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
