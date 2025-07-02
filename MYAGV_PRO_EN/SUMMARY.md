@@ -47,7 +47,7 @@
     - [5.3.1 firmware update info](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
     - [5.3.2 how to burn firmware](5-BasicApplication/5.3-FirmwareUse/5.3.2-HowToBurnFirmware.md)
   - [5.4 Image Update Instructions](5-BasicApplication/5.4-ImageUpdateUse/README.md)
-  - [5.5 ExceptionInformation](./)
+  - [5.5 ExceptionInformation]()
     - [5.5.1 ExceptionInformation](5-BasicApplication/5.5-ExceptionInformation/5.5.1-ExceptionInformation.md)
 - [6 SDK Development](6-SDKDevelopment/README.md)
 
@@ -60,7 +60,7 @@
     - [6.2.3 Navigation2](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.3-Navigation2.md)
     - [6.2.4 Multi AGV Pro control](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.4-multi_control.md)
     - [6.2.5 Gazebo simulation](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.5-Gazebo.md)
-- [6.3 ApplicationBaseSerialPortProtocol](./)
+- [6.3 ApplicationBaseSerialPortProtocol]()
     - [6.3.1 ApplicationBaseSerialPortProtocol](6-SDKDevelopment/6.3-ApplicationBaseSerialPortProtocol/6.3.1-Protocol_Introduction.md)
 
 - [7 Scenario Examples]()
