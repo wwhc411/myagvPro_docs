@@ -1,8 +1,9 @@
 # myAGV Pro gitbook
 
-- [1 产品介绍](1-ProductIntroduction/README.md)
+- [1 产品介绍](1-ProductIntroduction/1.1-ProductIntroduction.md)
 
-  - [1.1 应用场景](1-ProductIntroduction/1.1-ApplicationScenarios.md)
+  - [1.1 产品简介](1-ProductIntroduction/1.1-ProductIntroduction.md)
+  - [1.2 应用场景](1-ProductIntroduction/1.2-ApplicationScenarios.md)
 
 - [2 产品特性](2-ProductFeature/README.md)
 
@@ -15,10 +16,6 @@
   - [3.1 安全须知](3-UserNotes/3.1-SafetyInstruction.md)
   - [3.2 产品养护](3-UserNotes/3.2-TransportandStorage.md)
   - [3.3 充电说明](3-UserNotes/3.3-MaintenanceandCare.md)
-  - [3.4 常见问题解决](3-UserNotes/3.4-FAQs.md)
-    - [1 软件](3-UserNotes/2_software.md)
-    - [2 硬件](3-UserNotes/3_hardware.md)
-    - [3 其他](3-UserNotes/0_other.md)
 
 - [4 首次安装使用](4-FirstInstallAndUse/README.md)
 
@@ -30,25 +27,8 @@
 
 - [5 基础功能使用](5-BasicApplication/README.md)
 
-  - [5.1 系统使用说明](5-BasicApplication/5.1-SystemInstructionManual.md)
-  - [5.2 应用用途](5-BasicApplication/README.md#52-应用用途)
-    - [5.2.1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/README.md)
-      - [1 首次使用 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/1-myBlocklyFirstUse.md)
-      - [2 下载和卸载](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/2-install_uninstall.md)
-      - [3 接口描述](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/3-interface_description.md)
-      - [4 常见问题解答](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/4-Q&A.md)
-      - [5 API](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/jetsonnano/5-api.md)
-    - [5.2.2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/jetsonnano/README.md)
-      - [1 设置](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/jetsonnano/1-setup.md)
-      - [2 安装驱动程序](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/jetsonnano/2-install_driver.md)
-      - [3 闪存固件](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/jetsonnano/3-flash_firmwares.md)
-      - [4 其他功能](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/jetsonnano/4-other_function.md)
-    - [5.2.3 AGV_UI](5-BasicApplication/5.2-ApplicationUse/5.2.3-myagv_UI/user_manual.md)
-  - [5.3 固件使用](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
-    - [5.3.1 固件更新信息](5-BasicApplication/5.3-FirmwareUse/5.3.1-FirmwareUpdateInfo.md)
-    - [5.3.2 如何刻录固件](5-BasicApplication/5.3-FirmwareUse/5.3.2-HowToBurnFirmware.md)
-  - [ 5.4 镜像更新说明](5-BasicApplication/5.4-ImageUpdateUse/README.md)
-  - [5.5 异常信息查询]()
+  - [5.1 镜像更新说明](5-BasicApplication/5.4-ImageUpdateUse/README.md)
+  - [5.2 异常信息查询]()
     - [5.5.1 异常信息查询使用说明](5-BasicApplication/5.5-ExceptionInformation/5.5.1-ExceptionInformation.md)
 
 - [6 SDK 开发指南](6-SDKDevelopment/README.md)
