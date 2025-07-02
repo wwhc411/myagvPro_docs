@@ -8,9 +8,9 @@
 
 ## 文档跳转链接
 
-[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myagv_jn23_en)
+[SUMMARY_MYAGV_PRO_EN](https://docs.elephantrobotics.com/docs/myAGV_Pro_en)
 
-[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myagv_jn23_cn)
+[SUMMARY_MYAGV_PRO_CN](https://docs.elephantrobotics.com/docs/myAGV_Pro_cn)
 
 ## 如何报告问题
 
