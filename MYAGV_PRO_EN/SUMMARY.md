@@ -24,7 +24,8 @@
 - [4 First Install and Use](4-FirstInstallAndUse/README.md)
 
   - [4.1 Product Standard List](4-FirstInstallAndUse/4.1-ProductStandardList.md)
-  - [4.2 Product Unboxing Guide](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
+  - [4.2 Navigation-Visual Version]()
+    - [4.2.2 System Introduction](4-FirstInstallAndUse/4.2.2-SystemIntroduction.md)
   - [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-PowerOnDetectionGuide.md)
 
 - [5 Basic Application](5-BasicApplication/README.md)
