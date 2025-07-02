@@ -1,23 +1,18 @@
 # Examples Robots Using
+![](../resources/4-FirstInstallAndUse/agvpromain.png)
+Typical use case scenarios for myagv Pro often involve pairing with a robotic arm to form a hybrid robot, enabling mobile grasping, expanding workspaces, and completing a wider range of tasks. Below are the robotic arms supported by myAgv Pro.
 
-The typical use case scenarios for myagv often involve pairing with robotic arms to form compound robots, enabling mobile grasping, expanding workspace, and accomplishing a wider range of tasks. Below are the robotic arms supported by myagv.
+- **myCobot 320 M5**
 
-**myCobot 280 M5/Pi**
+- **myCobot 630**
 
-**myPalletizer 260 M5/Pi**
-
-**mechArm 270 M5/Pi**
-
-**myarm 300 pi**
-
-**ultraArm P340**
-
----
+- **myArm M750**
 
 **Skip to sections:**
 
-- [Installation Instructions](7.1-InstallationInstructions.md)
-- [Communications Control](7.2-CommunicationsControl.md)
+- [Home storage training](7.1-MyArmM750.md)
+- [Warehouse cargo handling](7.2-MyCobot320.md)
+- [MCU door opening training](7.3-MyCobotPro630.md)
 
 ---
 
