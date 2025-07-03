@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c849bdea-cc84-41a2-ad00-dd75a6876e46" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.1-MyArmM750.md" beforeDir="false" afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.1-MyArmM750.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.2-MyCobot320.md" beforeDir="false" afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.2-MyCobot320.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" beforeDir="false" afterPath="$PROJECT_DIR$/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_EN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_EN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.1-MyArmM750.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.1-MyArmM750.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.2-MyCobot320.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.2-MyCobot320.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_EN/7-ExamplesRobotsUsing/7.3-MyCobotPro630.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MYAGV_PRO_EN/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../MYAGV_PRO_EN/SUMMARY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +75,7 @@
       <workItem from="1751334019085" duration="3649000" />
       <workItem from="1751364928661" duration="76000" />
       <workItem from="1751365105946" duration="4130000" />
-      <workItem from="1751420278548" duration="29185000" />
+      <workItem from="1751420278548" duration="30459000" />
     </task>
     <servers />
   </component>
