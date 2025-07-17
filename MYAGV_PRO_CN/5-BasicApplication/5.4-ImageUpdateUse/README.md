@@ -8,7 +8,7 @@
 
 ## 1 镜像下载地址
 
-[点击下载>>](https://download.elephantrobotics.com/Product_software/iMage-ISO/myAGV%20Pro/myAGVPro_v1.0.0_250624.zip)
+[点击下载>>](https://download.elephantrobotics.com/Product_software/iMage-ISO/myAGV%20Pro/myAGVPro_v1.0.0_250716.zip)
 
 ## 2 镜像烧录步骤
 
@@ -78,4 +78,4 @@ NVME固态硬盘（SSD设备）烧录镜像之后，将其装回主控板，连�
 
 ![delete](../../resources/5-BasicApplication/5.4-ImageUpdateUse/ssd-17.png)
 
-若想验证系统版本号，可以打开一个控制台终端执行：cat /etc/version指令，终端会输出系统版本号，比如：v1.0.0_250624
+若想验证系统版本号，可以打开一个控制台终端执行：cat /etc/version指令，终端会输出系统版本号，比如：v1.0.0_250716

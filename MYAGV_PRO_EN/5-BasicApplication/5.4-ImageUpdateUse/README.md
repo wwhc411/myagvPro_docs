@@ -8,7 +8,7 @@ Here is mainly the method of burning the update image.
 
 ## 1 Image download address
 
-[Click to download>>](https://download.elephantrobotics.com/Product_software/iMage-ISO/myAGV%20Pro/myAGVPro_v1.0.0_250624.zip)
+[Click to download>>](https://download.elephantrobotics.com/Product_software/iMage-ISO/myAGV%20Pro/myAGVPro_v1.0.0_250716.zip)
 
 ## 2 Image burning steps
 
@@ -78,4 +78,4 @@ After burning the image to the NVME solid-state drive (SSD device), install it b
 
 ![delete](../../resources/5-BasicApplication/5.4-ImageUpdateUse/ssd-17.png)
 
-If you want to verify the system version number, you can open a console terminal and execute the command: cat /etc/version. The terminal will output the system version number, for example: v1.0.0_250624
+If you want to verify the system version number, you can open a console terminal and execute the command: cat /etc/version. The terminal will output the system version number, for example: v1.0.0_250716
