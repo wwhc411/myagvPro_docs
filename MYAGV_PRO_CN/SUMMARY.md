@@ -42,6 +42,7 @@
     - [6.2.3 Nav2导航](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.3-Navigation2.md)
     - [6.2.4 多机控制](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.4-multi_control.md)
     - [6.2.5 Gazebo仿真](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.5-Gazebo.md)
+    - [6.2.6 Point_Lio三维建图及导航](6-SDKDevelopment/6.2-ApplicationBaseROS2/6.2.6-Real_Time_Mapping_with_Point_lio.md)
   - [6.3 通信协议]()
     - [6.3.1 通信协议使用说明](6-SDKDevelopment/6.3-ApplicationBaseSerialPortProtocol/6.3.1-Protocol_Introduction.md)
 
